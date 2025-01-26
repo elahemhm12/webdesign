@@ -1,0 +1,172 @@
+*{
+    direction: rtl;
+    font-family: Vazirmatn FD;
+
+}
+@media (max-width: 767px) {
+    .leow {
+        padding-top: 120px;
+        display: block;
+    }
+}
+.navbar{
+    background-color: #3e1153;
+}
+.nav-item{
+    color: #424242;
+    padding: 10px;
+    
+    
+}
+.nav-item2{
+    color: #424242;
+    padding: 10px;
+    float: left;
+    
+}
+.nav-link:hover{
+    color: #ab000e;
+   
+}
+.btntop{
+    border-radius: 0%;
+    float: left;
+    padding: 8px 15px 8px 45px ;
+    font-size: 1em;
+}
+/* .nav-item:hover{
+    color: #e31e30 !important;
+} */
+ @media only screen and (max-width: 500px) { 
+    .formedia{
+        font-size: 20px;
+    }
+ }
+.carousel-inner{
+margin-top: 20px;
+}
+#jumbotron{
+    background-color: #4c247a;
+}
+.row{
+    margin-top: 20px;
+}
+#rown1{
+border: 1px solid black;
+}
+.meow{
+    /* margin-right: 50px; */
+}
+#weow1{
+margin-right: 10px;
+}
+#weow2{
+margin-top: 25px;
+}
+.dokme{
+    color: white;
+background-color:#57317a ;
+margin-left: 10px;
+float: left;
+margin-top: -27px;
+}
+.dokme:hover{
+    color: white;
+    background-color: red;
+}
+.flesh{
+    color: red;
+    
+}
+.heow1{
+    margin-top: 30px;
+}
+#seow{
+    margin-top: 50px;
+}
+#iconspan{
+    font-size: 50px;
+    border-right: 1px solid;
+    padding: 10px;
+}
+.peow{
+    margin-top: 20px;
+}
+#matnn4{
+    margin-top: 30px;
+}
+#matnn5{
+    margin-top: 90px;
+}
+.buttons{
+    background-color: #4c247a;
+    color: white;
+    margin-top: 90px;
+    margin-right: 500px;
+}
+.teow{
+    margin-top: 30px;
+}
+#iconn2{
+    font-size: xx-large;
+    background-color: gainsboro;
+    color: white;
+     text-align: center;
+     
+}
+#sdf{
+    color: #007bff;
+    margin-right: 10px;
+}
+#iconn2:hover{
+    background-color: #4c247a;
+}
+#footer{
+    background-color: gainsboro;
+    color: #fff;
+    padding: 30px;
+}
+.sunday{
+    background-color: #f8f8f8;
+}
+.sunday1{
+    color: red;
+    padding-right: 101px;
+}
+.keow{
+  text-align: center;
+    margin: 10px;
+    height: 250px;
+    padding: 20px;
+}
+
+.keow1{
+    background-color: gainsboro;
+margin-right: 10px;
+padding: 20px;
+}
+.keow2{
+    background-color: gainsboro;
+    margin-right: 10px;
+    padding: 20px;
+}
+.keow3{
+    background-color: gainsboro;
+    margin-right: 10px;
+    padding: 10px;
+}
+h6:hover{
+    color: red;
+}
+.new16{
+z-index: 99;
+}
+.lastone{
+    background-color: #3e1153;
+    height: 50px;
+}
+#lasttext{
+    color: white;
+    padding: 10px;
+    margin-right: 20px;
+}
